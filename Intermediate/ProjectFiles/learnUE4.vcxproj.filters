@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\learnUE4.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{9A426DEF-9E57-40AA-8BAA-B7DFB94B9A37}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\learnUE4.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\learnUE4Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{5530F919-7E30-46C8-B9AE-74A3DA2D9237}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\learnUE4">
+      <UniqueIdentifier>{E0B21540-6B34-4395-9E5A-E7802F5BBBAB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\learnUE4\CameraDirector.cpp">
+      <Filter>Source\learnUE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\learnUE4\CameraDirector.h">
+      <Filter>Source\learnUE4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\learnUE4\CollidingPawn.cpp">
+      <Filter>Source\learnUE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\learnUE4\CollidingPawn.h">
+      <Filter>Source\learnUE4</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\learnUE4\learnUE4.Build.cs">
+      <Filter>Source\learnUE4</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\learnUE4\learnUE4.cpp">
+      <Filter>Source\learnUE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\learnUE4\learnUE4.h">
+      <Filter>Source\learnUE4</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\learnUE4\learnUE4GameModeBase.cpp">
+      <Filter>Source\learnUE4</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\learnUE4\learnUE4GameModeBase.h">
+      <Filter>Source\learnUE4</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

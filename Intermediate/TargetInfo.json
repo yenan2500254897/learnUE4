@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "learnUE4",
+			"Path": "D:\\learnUE4\\learnUE4\\Source\\learnUE4.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "learnUE4Editor",
+			"Path": "D:\\learnUE4\\learnUE4\\Source\\learnUE4Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
